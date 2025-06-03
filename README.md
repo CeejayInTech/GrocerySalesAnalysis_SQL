@@ -48,4 +48,5 @@ products.csv:	Stores details about the products being sold.
 sales.csv:	Contains transactional data for each sale.
 
 # Query
-- <a href= "[[https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset/discussion/563656(https://github.com/CeejayInTech/GrocerySalesAnalysis_SQL/blob/main/Queries/SQLQuery_Sales%20Analysis.sql)](https://github.com/CeejayInTech/GrocerySalesAnalysis_SQL/blob/main/Queries/SQLQuery_Sales%20Analysis.sql)">QueryFiles</a>
+<a href="https://github.com/CeejayInTech/GrocerySalesAnalysis_SQL/blob/main/Queries/SQLQuery_Sales%20Analysis.sql">QueryFiles</a>
+
