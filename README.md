@@ -34,3 +34,13 @@ Objective: Explore how sales are distributed across different cities and countri
 Map sales data to specific cities and countries to identify high-performing regions.
 Compare sales volumes between various geographical areas.
 Assess the effectiveness of regional sales strategies.
+
+## Dataset Description
+### File              Name	Description
+categories.csv:	Defines the categories of the products.
+cities.csv:	Contains city-level geographic data.
+countries.csv:	Stores country-related metadata.
+customers.csv:	Contains information about the customers who make purchases.
+employees.csv:	Stores details of employees handling sales transactions.
+products.csv:	Stores details about the products being sold.
+sales.csv:	Contains transactional data for each sale.
