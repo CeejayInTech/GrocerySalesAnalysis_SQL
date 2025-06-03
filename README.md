@@ -45,3 +45,5 @@ customers.csv:	Contains information about the customers who make purchases.
 employees.csv:	Stores details of employees handling sales transactions.
 products.csv:	Stores details about the products being sold.
 sales.csv:	Contains transactional data for each sale.
+
+# Query
