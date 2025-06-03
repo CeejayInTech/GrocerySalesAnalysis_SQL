@@ -1,7 +1,8 @@
 # GrocerySalesAnalysis_SQL
 ## Overview
 The Grocery Sales Database is a structured relational dataset for analyzing sales transactions, customer demographics, product details, employee records, and geographical information across multiple cities and countries. 
-# Dataset used(Kaggle): https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset/discussion/563656
+### Dataset used(Kaggle): https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset/discussion/563656
+
 # Project Objective
 ##Dataset Description
 ### 1. Monthly Sales Performance
