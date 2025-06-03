@@ -37,7 +37,7 @@ Compare sales volumes between various geographical areas.
 Assess the effectiveness of regional sales strategies.
 
 ## Dataset Description
-### File              Name	Description
+### FileName	                Description
 categories.csv:	Defines the categories of the products.
 cities.csv:	Contains city-level geographic data.
 countries.csv:	Stores country-related metadata.
